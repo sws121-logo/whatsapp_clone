@@ -1,4 +1,4 @@
-Here’s a `README.md` for your React chat application:
+
 
 ```markdown
 # React Chat Application
